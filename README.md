@@ -12,6 +12,11 @@ Hi, I'm Banjamin L. You might recognize me as GitHub's mascot.
 |     3| SQL       |
 </details>
 
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Banjamin L.
+
 
 Here are some ideas to get you started:
 
