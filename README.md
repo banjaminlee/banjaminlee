@@ -51,8 +51,8 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    You, Me-->You;
-    You, Me-->Me;
+    You_Me-->You;
+    You_Me-->Me;
     Me-->US;
     You-->US;
 ```
