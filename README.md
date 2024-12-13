@@ -1,3 +1,4 @@
+Hi, I'm Banjamin L. You might recognize me as GitHub's mascot.
 <h1 align="center">Hey there👋</h1>
 <h3 align="center">I love exploring how things work—whether it's code 💻, ideas 💡, or new technologies 🚀!</h3>
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1cm5ya2JobzBvcWlubnQzc3IyZGZmY21ucmlteHMyZHUzdW5oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
@@ -10,7 +11,7 @@
 
 - 💬 Ask me about **dev\**
 
-- 📫 Mail **aadityasinhawork@gmail.com**
+- 📫 Mail **banjaminlee0212@gmail.com**
 
 - ⚡ Fun fact **When I’m not coding 💻, you’ll find me exploring nature 🌿 or diving into a good book 📚—I believe the best ideas come when you least expect them!**
 
@@ -29,11 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekaadityasinha&" alt="geekaadityasinha" /></p>
 
-
-## Hi there 👋
-## About me
-
-Hi, I'm Banjamin L. You might recognize me as GitHub's mascot.
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
@@ -61,17 +57,6 @@ graph TD;
     C-->D;
 ```
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <--
 <picture>
