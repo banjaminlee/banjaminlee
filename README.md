@@ -51,10 +51,10 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    You, Me-->You;
+    You, Me-->Me;
+    Me-->US;
+    You-->US;
 ```
 
 
