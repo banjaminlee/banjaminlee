@@ -1,5 +1,13 @@
 ## Hi there 👋
+## About me
 
+Hi, I'm Banjamin L. You might recognize me as GitHub's mascot.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 Here are some ideas to get you started:
 
