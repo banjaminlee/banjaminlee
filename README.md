@@ -17,7 +17,7 @@ Hi, I'm Banjamin L. You might recognize me as GitHub's mascot.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aaditya-sinha-2b025a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-sinha-2b025a225/" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/aadityaalgorithm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadityaalgorithm" height="30" width="40" /></a>
 </p>
 
