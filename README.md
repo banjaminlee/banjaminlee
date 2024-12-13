@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60D5F7&background=86276800&width=435&lines=+Aaditya+Sinha;Engineer;Lazy+but+passionate+about+coding+and;tech.+)](https://git.io/typing-svg)
 <h1 align="center">Hey there👋</h1>
 <h3 align="center">I love exploring how things work—whether it's code 💻, ideas 💡, or new technologies 🚀!</h3>
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1cm5ya2JobzBvcWlubnQzc3IyZGZmY21ucmlteHMyZHUzdW5oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
