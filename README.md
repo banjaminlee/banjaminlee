@@ -47,7 +47,6 @@ Hi, I'm Banjamin L. You might recognize me as GitHub's mascot.
 
 — Banjamin L.
 
-Here is a simple flow chart:
 
 ```mermaid
 graph TD;
